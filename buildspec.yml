@@ -8,7 +8,4 @@ phases:
   post_build:
     commands:
       - echo Build completed successfully
-artifacts:
-  files:
-    - NormalJavaProject.jar
   discard-paths: yes
